@@ -70,3 +70,7 @@ For any questions or inquiries, please contact me at [amansrivastava7969@gmail.c
 ---
 
 Thank you for checking out the BBC News Classification project! If you found this project helpful, please consider starring the repository. Happy coding! 🚀
+
+## Glance of website
+
+![image](/website%20screenshot.jpg)
