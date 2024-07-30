@@ -9,10 +9,9 @@ Welcome to the BBC News Classification project! This repository contains all the
 4. [Preprocessing](#preprocessing)
 5. [Model Building](#model-building)
 6. [Deployment](#deployment)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact](#contact)
 
 ## Project Overview
 The aim of this project is to develop an efficient and accurate text classification system to categorize BBC news articles into predefined categories. We leverage Non-Negative Matrix Factorization (NMF) for topic modeling and deploy the model using Gradio on Hugging Face for easy access and interaction.
