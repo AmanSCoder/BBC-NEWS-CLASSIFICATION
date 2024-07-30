@@ -1,6 +1,8 @@
-# BBC News Classification Project
+# BBC News Classification Project 
 
-Welcome to the BBC News Classification project! This repository contains all the code and resources required to build and deploy a news classification system that categorizes BBC news articles into Business, Tech, Sport, Politics, and Entertainment categories using Natural Language Processing (NLP) techniques and Non-Negative Matrix Factorization (NMF).
+Welcome to the BBC News Classification project! This repository contains all the code and resources required to build and deploy a news classification system that categorizes BBC news articles into Business, Tech, Sport, Politics, and Entertainment categories using Natural Language Processing (NLP) techniques and Non-Negative Matrix Factorization (NMF). 
+
+### To check this website [click here](https://huggingface.co/spaces/amanscoder/BBC_NEWS_CLASSIFICATION)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
